@@ -13,13 +13,13 @@ import { getFirestore, doc, setDoc } from "firebase/firestore";
 //   measurementId: "G-7X36E69HYW",
 // };
 const firebaseConfig = {
-  apiKey: "AIzaSyANAEuZhV4RYdLjN2ozPGdYckPnUbx6-_g",
-  authDomain: "expensetracker-be21b.firebaseapp.com",
-  projectId: "expensetracker-be21b",
-  storageBucket: "expensetracker-be21b.appspot.com",
-  messagingSenderId: "138947680460",
-  appId: "1:138947680460:web:0c74bb443f38d65c68ca69",
-  measurementId: "G-5KYJ489CXR",
+  apiKey: "AIzaSyDVFJHucLKVm3rfUNPnuswAm73LNreb2FY",
+  authDomain: "expensetracker-bc355.firebaseapp.com",
+  projectId: "expensetracker-bc355",
+  storageBucket: "expensetracker-bc355.appspot.com",
+  messagingSenderId: "293927592879",
+  appId: "1:293927592879:web:c910faec50c4903ef3455a",
+  measurementId: "G-6BKXFJHSHZ",
 };
 
 const app = initializeApp(firebaseConfig);
